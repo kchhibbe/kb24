@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CardArtAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 35f3d5b297e634440bd66ae5eee5c735, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2e9f1740642a845e9b38867a55445c93, type: 3}
+  - {fileID: 21300000, guid: d4d23a31cfde74fe5a3e40b647465a1c, type: 3}
+  - {fileID: 21300000, guid: fa3586812529444deb315eefcb358b9d, type: 3}
+  - {fileID: 21300000, guid: f8e201e18679e4ad9a5db1e309b555ed, type: 3}
+  - {fileID: 21300000, guid: 5bcc03e1d6576418199b514358411f99, type: 3}
+  - {fileID: 21300000, guid: 3b9bcce17af5e4cf19bcfee92014cac9, type: 3}
+  - {fileID: 21300000, guid: f1dd7f031f80b4a42b622039d02c9698, type: 3}
+  - {fileID: 21300000, guid: 75967143a387547329c28890d43cccee, type: 3}
+  - {fileID: 21300000, guid: 363673645d3364ffd83963f343b08b6f, type: 3}
+  - {fileID: 21300000, guid: 9bff54f45db8841f28bb91b8e1dd3855, type: 3}
+  - {fileID: 21300000, guid: b1a3d00531d6d480e82471267484625c, type: 3}
+  - {fileID: 21300000, guid: 203a996675b954dbab93b298f59a737a, type: 3}
+  - {fileID: 21300000, guid: 202f05b6a18a24983a0dc5ce9b4409be, type: 3}
+  - {fileID: 21300000, guid: 3533be17f81794ce3b06e819cacfb0fe, type: 3}
+  - {fileID: 21300000, guid: ea93522773e4a40e4af0400d23dd972f, type: 3}
+  - {fileID: 21300000, guid: 67695509216af45bc812c551f1fb415b, type: 3}
+  - {fileID: 21300000, guid: 882fcf196023f43c4bc4c166c6c96f62, type: 3}
+  - {fileID: 21300000, guid: ef08a7b93b15d4d8d910eead72b4bb95, type: 3}
+  - {fileID: 21300000, guid: 69a2e3f97980542f9aebf31bfdf4f90f, type: 3}
+  - {fileID: 21300000, guid: 2d63475ae263c43edaedc9c110023b7b, type: 3}
+  - {fileID: 21300000, guid: b6a90e7b7d94f4467a6ac2cb73a95940, type: 3}
+  - {fileID: 21300000, guid: 9a9e6e8bbafc14cd09643f9dd73d7bc1, type: 3}
+  - {fileID: 21300000, guid: afdc3e9c0366e45cab1ce9f8fc08ef7b, type: 3}
+  - {fileID: 21300000, guid: 05e2f90d69fdd4a6f9387b6de405b98e, type: 3}
+  - {fileID: 21300000, guid: 8ded283dfbe084ff8986e829a6b66e2b, type: 3}
+  - {fileID: 21300000, guid: ca24f57d85d4a4edc88e8d3ee0bf4dca, type: 3}
+  - {fileID: 21300000, guid: a3d3cebdc1582461b8f19d2967dbc38d, type: 3}
+  - {fileID: 21300000, guid: 4f3c1efd88aa54ef49969d350ce71958, type: 3}
+  - {fileID: 21300000, guid: 15b4715ea42e04e6d8a931efc2c1b3c5, type: 3}
+  - {fileID: 21300000, guid: edec3e5ebace64ce89dfa8818ca18329, type: 3}
+  - {fileID: 21300000, guid: 25881b6ecb50f403e80f29d3ea2d01ca, type: 3}
+  - {fileID: 21300000, guid: 13acdafe9036c45c9b6a47f68d902fa4, type: 3}
+  - {fileID: 21300000, guid: 2ab23f3f6df7544deaeff09039531f66, type: 3}
+  - {fileID: 21300000, guid: 095bc07f2e9a04961beec8a8f29f272a, type: 3}
+  - {fileID: 21300000, guid: 42d35b9f50325432a9f1cb5fe2c3893f, type: 3}
+  - {fileID: 21300000, guid: 7d3423afe22c6440ea3b5aa81d2b7b71, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cardart_S001
+  - cardart_B402
+  - cardart_U024
+  - cardart_S303
+  - cardart_B202
+  - cardart_U214
+  - cardart_U013
+  - cardart_U209
+  - cardart_S203
+  - cardart_token-undead
+  - cardart_U308
+  - cardart_U202
+  - cardart_UD22
+  - cardart_S304
+  - cardart_S011
+  - cardart_U111
+  - cardart_U112
+  - cardart_B001
+  - cardart_token-knight
+  - cardart_U110
+  - cardart_token-construct
+  - cardart_UD42
+  - cardart_UD05
+  - cardart_U212
+  - cardart_U107
+  - cardart_U020
+  - cardart_U037
+  - cardart_UD06
+  - cardart_U023
+  - cardart_UD12
+  - cardart_S008
+  - cardart_B101
+  - cardart_S402
+  - cardart_U003
+  - cardart_U203
+  - cardart_S002
+  m_Tag: CardArtAtlas
+  m_IsVariant: 0
